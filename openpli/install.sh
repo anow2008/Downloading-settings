@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # الرابط المباشر للملف (Raw)
-URL="https://raw.githubusercontent.com/anow2008/Downloading-settings/main/OpenATV/settings"
+URL="https://raw.githubusercontent.com/anow2008/Downloading-settings/main/openpli/settings"
 
 # مسار الملف على الرسيفر
 DEST="/etc/enigma2/settings"
