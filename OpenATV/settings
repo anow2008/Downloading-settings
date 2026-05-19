@@ -176,4 +176,4 @@ config.usage.servicetype_icon_mode=1
 config.usage.shutdownOK=False
 config.usage.use_pig=True
 config.volumeControl.pressStep=5
-config.volumeControl.volume=47
+config.volumeControl.volume=20
